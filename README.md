@@ -1,1 +1,1 @@
-# Sporting-Event-Ticket-Price-Optimization-and-Revenue-Simulation
+# Sports-Event-Ticket-Price-Optimization-and-Revenue-Simulation
