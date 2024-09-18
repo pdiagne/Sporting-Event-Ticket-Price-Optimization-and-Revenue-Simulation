@@ -15,4 +15,4 @@ Dynamic Pricing Simulation: Simulates dynamic pricing adjustments leading up to 
 and remaining capacity.
 
 Revenue Projections: Computes total potential revenue based on dynamic ticket prices and remaining inventory.
-The scripts generates various plots for analysis and outputs data-driven pricing recommendations to optimize revenue for sporting events. The alternate case consistently results in higher simulated ticket revenue over a 30-day period.   
+The scripts generates various plots for analysis and outputs data-driven pricing recommendations to optimize revenue for sporting events. The Alternate Case (linear programming) consistently results in higher simulated ticket revenue over a 30-day period.   
